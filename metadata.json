@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Bill",
+  "description": "Indian Invoice Maker and GST Billing application for small businesses and merchants",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
